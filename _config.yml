@@ -1,0 +1,28 @@
+name: Thea Gilmore
+favicon: null
+layout_spectrum: 0.5951943332329392
+typography_spectrum: 0.8697094740346074
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.2890629491303116
+  lightness: 0.2815599227324128
+  saturation: 0.9383381912484765
+  rhythmicContrast: 0.0724831260740757
+purpose: []
